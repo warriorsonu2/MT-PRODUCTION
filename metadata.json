@@ -1,0 +1,6 @@
+{
+  "name": "MT Production",
+  "description": "Stories Beyond Imagination. A cinematic production house.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
